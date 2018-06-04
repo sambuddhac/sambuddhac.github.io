@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Carleton Coffrin</title>
+    <link>https://ccoffrin.github.io/home/</link>
+    <description>Recent content in Homes on Carleton Coffrin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 02 Jun 2018 00:00:00 -0600</lastBuildDate>
+    
+	<atom:link href="https://ccoffrin.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://ccoffrin.github.io/home/about/</link>
+      <pubDate>Sat, 02 Jun 2018 00:00:00 -0600</pubDate>
+      
+      <guid>https://ccoffrin.github.io/home/about/</guid>
+      <description>Biography Carleton Coffrin is a staff scientist in Los Alamos National Laboratory&amp;rsquo;s Advanced Network Science Initiative. His research interests focus on how optimization algorithms can be applied to applications on infrastructure networks. His background spans many forms of optimization including mathematical programing, constraint programming, and local search. Recently Carleton has been exploring online learning via open-online courses and youtube videos as well was novel computing architectures such as, quantum computers, neuromorphic computers and memristors.</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://ccoffrin.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      
+      <guid>https://ccoffrin.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://ccoffrin.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      
+      <guid>https://ccoffrin.github.io/home/teaching/</guid>
+      <description>Co-Instructor with Pascal Van Hentenryck, Discrete Optimization (delivered by Coursera) Melbourne University, Melbourne, VIC, 2013 - Present
+Co-Instructor with Peter Stuckey, Modeling for Discrete Optimization (delivered by Coursera) Melbourne University, Melbourne, VIC, 2015
+Teaching Assistant for Peter Stuckey, Modeling for Discrete Optimization (COMP90046) Melbourne University, Melbourne, VIC, 2014 and 2015
+Graduate Teaching Assistant for Claire Mathieu, Design and Analysis of Algorithms (CSCI1570) Brown University, Providence, RI, 2010 and 2012
+Graduate Teaching Assistant for Pascal Van Hentenryck, Solving Hard Problems in Combinatorial Optimization: Theory and Systems (CSCI2580) Brown University, Providence, RI, 2011</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://ccoffrin.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      
+      <guid>https://ccoffrin.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

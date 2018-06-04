@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4 on Carleton Coffrin</title>
+    <link>https://ccoffrin.github.io/publication_types/4/</link>
+    <description>Recent content in 4 on Carleton Coffrin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 21 Oct 2017 00:00:00 -0600</lastBuildDate>
+    
+	<atom:link href="https://ccoffrin.github.io/publication_types/4/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Relaxations of AC Minimal Load-Shedding for Severe Contingency Analysis</title>
+      <link>https://ccoffrin.github.io/publication/mls-ep/</link>
+      <pubDate>Sat, 21 Oct 2017 00:00:00 -0600</pubDate>
+      
+      <guid>https://ccoffrin.github.io/publication/mls-ep/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Ising Processing Units: Potential and Challenges for Discrete Optimization</title>
+      <link>https://ccoffrin.github.io/publication/ipu/</link>
+      <pubDate>Sun, 02 Jul 2017 00:00:00 -0600</pubDate>
+      
+      <guid>https://ccoffrin.github.io/publication/ipu/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+  </channel>
+</rss>
