@@ -59,6 +59,8 @@
   
 
   
+  
+  
 
   
   <link rel="alternate" href="https://ccoffrin.github.io/index.xml" type="application/rss+xml" title="Carleton Coffrin">
@@ -85,6 +87,7 @@
   
 
   
+
   
 
   <title>NESTA, The NICTA Energy System Test Case Archive | Carleton Coffrin</title>
@@ -362,22 +365,22 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 <a class="btn btn-primary btn-outline" href="https://arxiv.org/abs/1411.0359" target="_blank" rel="noopener">
-  PDF
+  arXiv
 </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -402,6 +405,9 @@
 
 <footer class="site-footer">
   <div class="container">
+
+    
+
     <p class="powered-by">
 
       &copy; 2018 &middot; 
@@ -481,10 +487,15 @@
     
     
     <script type="text/x-mathjax-config">
-        MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']] } });
+      MathJax.Hub.Config({
+        CommonHTML: { linebreaks: { automatic: true } },
+        tex2jax: { inlineMath: [ ['$', '$'], ['\\(','\\)'] ], displayMath: [ ['$$','$$'], ['\\[', '\\]'] ], processEscapes: false },
+        TeX: { noUndefined: { attributes: { mathcolor: 'red', mathbackground: '#FFEEEE', mathsize: '90%' } } },
+        messageStyle: 'none'
+      });
     </script>
     
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_CHTML" integrity="sha512-tOav5w1OjvsSJzePRtt2uQPFwBoHt1VZcUq8l8nm5284LEKE9FSJBQryzMBzHxY5P0zRdNqEcpLIRVYFNgu1jw==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_CHTML-full" integrity="sha256-GhM+5JHb6QUzOQPXSJLEWP7R73CbkisjzK5Eyij4U9w=" crossorigin="anonymous"></script>
     
     
 
