@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 01 Dec 2016 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 17 Oct 2018 00:00:00 -0600</lastBuildDate>
     
 	<atom:link href="https://ccoffrin.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Relaxations of AC Maximal Load Delivery for Severe Contingency Analysis</title>
+      <link>https://ccoffrin.github.io/publication/mld-ep/</link>
+      <pubDate>Wed, 17 Oct 2018 00:00:00 -0600</pubDate>
+      
+      <guid>https://ccoffrin.github.io/publication/mld-ep/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Strengthening the SDP Relaxation of AC Power Flows With Convex Envelopes, Bound Tightening, and Valid Inequalities</title>

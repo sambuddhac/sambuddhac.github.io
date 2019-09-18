@@ -7,26 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 21 Oct 2017 00:00:00 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2019 00:00:00 -0600</lastBuildDate>
     
 	<atom:link href="https://ccoffrin.github.io/publication_types/4/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Relaxations of AC Minimal Load-Shedding for Severe Contingency Analysis</title>
-      <link>https://ccoffrin.github.io/publication/mls-ep/</link>
-      <pubDate>Sat, 21 Oct 2017 00:00:00 -0600</pubDate>
+      <title>The Power Grid Library for Benchmarking AC Optimal Power Flow Algorithms</title>
+      <link>https://ccoffrin.github.io/publication/pglib-opf/</link>
+      <pubDate>Wed, 07 Aug 2019 00:00:00 -0600</pubDate>
       
-      <guid>https://ccoffrin.github.io/publication/mls-ep/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ising Processing Units: Potential and Challenges for Discrete Optimization</title>
-      <link>https://ccoffrin.github.io/publication/ipu/</link>
-      <pubDate>Sun, 02 Jul 2017 00:00:00 -0600</pubDate>
-      
-      <guid>https://ccoffrin.github.io/publication/ipu/</guid>
+      <guid>https://ccoffrin.github.io/publication/pglib-opf/</guid>
       <description></description>
     </item>
     

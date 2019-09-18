@@ -13,29 +13,38 @@
     
     
     <item>
+      <title>The Power Grid Library for Benchmarking AC Optimal Power Flow Algorithms</title>
+      <link>https://ccoffrin.github.io/publication/pglib-opf/</link>
+      <pubDate>Wed, 07 Aug 2019 00:00:00 -0600</pubDate>
+      
+      <guid>https://ccoffrin.github.io/publication/pglib-opf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Ising Processing Units with Integer Programming</title>
+      <link>https://ccoffrin.github.io/publication/ipu/</link>
+      <pubDate>Sun, 28 Apr 2019 00:00:00 -0600</pubDate>
+      
+      <guid>https://ccoffrin.github.io/publication/ipu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relaxations of AC Maximal Load Delivery for Severe Contingency Analysis</title>
+      <link>https://ccoffrin.github.io/publication/mld-ep/</link>
+      <pubDate>Wed, 17 Oct 2018 00:00:00 -0600</pubDate>
+      
+      <guid>https://ccoffrin.github.io/publication/mld-ep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>PowerModels.jl: An Open-Source Framework for Exploring Power Flow Formulations</title>
       <link>https://ccoffrin.github.io/publication/powermodels/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 -0600</pubDate>
       
       <guid>https://ccoffrin.github.io/publication/powermodels/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Relaxations of AC Minimal Load-Shedding for Severe Contingency Analysis</title>
-      <link>https://ccoffrin.github.io/publication/mls-ep/</link>
-      <pubDate>Sat, 21 Oct 2017 00:00:00 -0600</pubDate>
-      
-      <guid>https://ccoffrin.github.io/publication/mls-ep/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ising Processing Units: Potential and Challenges for Discrete Optimization</title>
-      <link>https://ccoffrin.github.io/publication/ipu/</link>
-      <pubDate>Sun, 02 Jul 2017 00:00:00 -0600</pubDate>
-      
-      <guid>https://ccoffrin.github.io/publication/ipu/</guid>
       <description></description>
     </item>
     
