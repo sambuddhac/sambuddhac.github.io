@@ -1,5 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    
+    <url>
+    
+      <loc>https://ccoffrin.github.io/publication_types/4/</loc>
+      <lastmod>2019-08-07T00:00:00-06:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://ccoffrin.github.io/</loc>
+      <lastmod>2019-08-07T00:00:00-06:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://ccoffrin.github.io/publication_types/</loc>
+      <lastmod>2019-08-07T00:00:00-06:00</lastmod>
+    </url>
+    
   
     
     
@@ -14,8 +40,26 @@
     
     <url>
     
+      <loc>https://ccoffrin.github.io/publication_types/1/</loc>
+      <lastmod>2019-04-28T00:00:00-06:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://ccoffrin.github.io/publication/ipu/</loc>
       <lastmod>2019-04-28T00:00:00-06:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://ccoffrin.github.io/publication_types/2/</loc>
+      <lastmod>2018-10-17T00:00:00-06:00</lastmod>
     </url>
     
   
@@ -95,58 +139,7 @@
     
     <url>
     
-      <loc>https://ccoffrin.github.io/publication_types/1/</loc>
-      <lastmod>2019-04-28T00:00:00-06:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://ccoffrin.github.io/publication_types/2/</loc>
-      <lastmod>2018-10-17T00:00:00-06:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://ccoffrin.github.io/publication_types/4/</loc>
-      <lastmod>2019-08-07T00:00:00-06:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://ccoffrin.github.io/</loc>
-      <lastmod>2018-06-02T00:00:00-06:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://ccoffrin.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://ccoffrin.github.io/publication_types/</loc>
-      <lastmod>2019-04-28T00:00:00-06:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -155,7 +148,6 @@
     <url>
     
       <loc>https://ccoffrin.github.io/tags/</loc>
-      <priority>0</priority>
     </url>
     
   
