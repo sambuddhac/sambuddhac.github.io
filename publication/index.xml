@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Carleton Coffrin</title>
+    <link>https://ccoffrin.github.io/publication/</link>
+    <description>Recent content in Publications on Carleton Coffrin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://ccoffrin.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Potential of Quantum Annealing for Rapid Solution Structure Identification</title>
+      <link>https://ccoffrin.github.io/publication/dwrsi/</link>
+      <pubDate>Wed, 04 Dec 2019 00:00:00 -0700</pubDate>
+      
+      <guid>https://ccoffrin.github.io/publication/dwrsi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Power Grid Library for Benchmarking AC Optimal Power Flow Algorithms</title>
+      <link>https://ccoffrin.github.io/publication/pglib-opf/</link>
+      <pubDate>Wed, 07 Aug 2019 00:00:00 -0600</pubDate>
+      
+      <guid>https://ccoffrin.github.io/publication/pglib-opf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Ising Processing Units with Integer Programming</title>
+      <link>https://ccoffrin.github.io/publication/ipu/</link>
+      <pubDate>Sun, 28 Apr 2019 00:00:00 -0600</pubDate>
+      
+      <guid>https://ccoffrin.github.io/publication/ipu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relaxations of AC Maximal Load Delivery for Severe Contingency Analysis</title>
+      <link>https://ccoffrin.github.io/publication/mld-ep/</link>
+      <pubDate>Wed, 17 Oct 2018 00:00:00 -0600</pubDate>
+      
+      <guid>https://ccoffrin.github.io/publication/mld-ep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PowerModels.jl: An Open-Source Framework for Exploring Power Flow Formulations</title>
+      <link>https://ccoffrin.github.io/publication/powermodels/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 -0600</pubDate>
+      
+      <guid>https://ccoffrin.github.io/publication/powermodels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strengthening the SDP Relaxation of AC Power Flows With Convex Envelopes, Bound Tightening, and Valid Inequalities</title>
+      <link>https://ccoffrin.github.io/publication/lnc/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://ccoffrin.github.io/publication/lnc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The QC Relaxation: A Theoretical and Computational Study on Optimal Power Flow</title>
+      <link>https://ccoffrin.github.io/publication/qc/</link>
+      <pubDate>Thu, 17 Sep 2015 00:00:00 -0600</pubDate>
+      
+      <guid>https://ccoffrin.github.io/publication/qc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strengthening Convex Relaxations with Bound Tightening for Power Network Optimization</title>
+      <link>https://ccoffrin.github.io/publication/ac-obbt/</link>
+      <pubDate>Thu, 13 Aug 2015 00:00:00 -0600</pubDate>
+      
+      <guid>https://ccoffrin.github.io/publication/ac-obbt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NESTA, The NICTA Energy System Test Case Archive</title>
+      <link>https://ccoffrin.github.io/publication/nesta/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 -0600</pubDate>
+      
+      <guid>https://ccoffrin.github.io/publication/nesta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Linear-Programming Approximation of AC Power Flows</title>
+      <link>https://ccoffrin.github.io/publication/lpac/</link>
+      <pubDate>Mon, 19 May 2014 00:00:00 -0600</pubDate>
+      
+      <guid>https://ccoffrin.github.io/publication/lpac/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
