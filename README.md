@@ -15,8 +15,13 @@ Power System Simulation Tool: PowerWorld Simulator, REopt, UPLAN Altos, Aurora-X
 Optimization modeling languages, solvers, and other tools: JuMP, Pyomo, Xpress-mosel, GAMS, CVX, CVXGEN, MOSEK, GLPK, Knitro, Gurobi, TensorFlow, git and GitHub etc.
 Programming & Scripting Languages:- C, C++, Java, Python, Julia, SQL, PL/SQL, Matlab, HTML, LaTeX, BASIC, Pascal, Linux Shell scripting etc. 
 To contribute substantially, by creating and disseminating knowledge, through research, in the field of Electrical Power Systems, with a focus on Optimization, Economics, Stochastic Processes etc. as applied to Power Systems Analysis, Power Systems Dynamics & Stability, Electricity Markets Operation, Transmission, Distribution, and Generation Planning & Analysis, FTR/CRR Trading etc.
+
 LinkedIn: https://www.linkedin.com/in/sambuddha-chakrabarti-ph-d-84157318/
+
 Research Gate Page: https://www.researchgate.net/profile/Sambuddha_Chakrabarti
+
 GitHub Page: https://github.com/sambuddhac
+
 Google Scholar Page: https://scholar.google.com/citations?user=R6fo6_oAAAAJ&hl=en
+
 NREL: https://www.nrel.gov/research/sambuddhasam-chakrabarti.html
