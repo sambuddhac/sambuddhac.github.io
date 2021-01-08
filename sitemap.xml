@@ -1,171 +1,250 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    
-    
-    <url>
-    
-      <loc>https://ccoffrin.github.io/publication/dwrsi/</loc>
-      <lastmod>2019-12-04T00:00:00-07:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://ccoffrin.github.io/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://ccoffrin.github.io/publication/pglib-opf/</loc>
-      <lastmod>2019-08-07T00:00:00-06:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://ccoffrin.github.io/talk/example-talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://ccoffrin.github.io/publication/ipu/</loc>
-      <lastmod>2019-04-28T00:00:00-06:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://ccoffrin.github.io/event/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://ccoffrin.github.io/publication/mld-ep/</loc>
-      <lastmod>2018-10-17T00:00:00-06:00</lastmod>
-    </url>
-    
+  <url>
+    <loc></loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://ccoffrin.github.io/publication/powermodels/</loc>
-      <lastmod>2018-06-01T00:00:00-06:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://ccoffrin.github.io/publication-type/4/</loc>
+    <lastmod>2019-12-04T00:00:00-07:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://ccoffrin.github.io/publication/</loc>
-      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://ccoffrin.github.io/publication_types/</loc>
+    <lastmod>2019-12-04T00:00:00-07:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://ccoffrin.github.io/publication/lnc/</loc>
-      <lastmod>2016-12-01T00:00:00-07:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://ccoffrin.github.io/publication/</loc>
+    <lastmod>2019-12-04T00:00:00-07:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://ccoffrin.github.io/publication/qc/</loc>
-      <lastmod>2015-09-17T00:00:00-06:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://ccoffrin.github.io/tag/selected/</loc>
+    <lastmod>2019-12-04T00:00:00-07:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://ccoffrin.github.io/publication/ac-obbt/</loc>
-      <lastmod>2015-08-13T00:00:00-06:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://ccoffrin.github.io/tags/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://ccoffrin.github.io/publication/nesta/</loc>
-      <lastmod>2014-11-01T00:00:00-06:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://ccoffrin.github.io/publication/dwrsi/</loc>
+    <lastmod>2019-12-04T00:00:00-07:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://ccoffrin.github.io/publication/lpac/</loc>
-      <lastmod>2014-05-19T00:00:00-06:00</lastmod>
-    </url>
-    
+  <url>
+    <loc></loc>
+    <lastmod>2019-12-04T00:00:00-07:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://ccoffrin.github.io/publication_types/1/</loc>
-      <lastmod>2019-04-28T00:00:00-06:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc></loc>
+    <lastmod>2019-08-07T00:00:00-06:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://ccoffrin.github.io/publication_types/2/</loc>
-      <lastmod>2018-10-17T00:00:00-06:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://ccoffrin.github.io/publication/pglib-opf/</loc>
+    <lastmod>2019-08-07T00:00:00-06:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://ccoffrin.github.io/publication_types/4/</loc>
-      <lastmod>2019-12-04T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://ccoffrin.github.io/publication-type/1/</loc>
+    <lastmod>2019-04-28T00:00:00-06:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://ccoffrin.github.io/</loc>
-      <lastmod>2018-06-02T00:00:00-06:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc></loc>
+    <lastmod>2019-04-28T00:00:00-06:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://ccoffrin.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://ccoffrin.github.io/publication/ipu/</loc>
+    <lastmod>2019-04-28T00:00:00-06:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://ccoffrin.github.io/publication_types/</loc>
-      <lastmod>2019-04-28T00:00:00-06:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc></loc>
+    <lastmod>2019-04-28T00:00:00-06:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://ccoffrin.github.io/tags/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc></loc>
+    <lastmod>2019-04-28T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ccoffrin.github.io/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ccoffrin.github.io/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ccoffrin.github.io/publication-type/2/</loc>
+    <lastmod>2018-10-17T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2018-10-17T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2018-10-17T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ccoffrin.github.io/publication/mld-ep/</loc>
+    <lastmod>2018-10-17T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2018-10-17T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2018-06-01T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ccoffrin.github.io/publication/powermodels/</loc>
+    <lastmod>2018-06-01T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2018-06-01T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2016-12-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2016-12-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ccoffrin.github.io/publication/lnc/</loc>
+    <lastmod>2016-12-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ccoffrin.github.io/tag/deep-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ccoffrin.github.io/project/example/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ccoffrin.github.io/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ccoffrin.github.io/tag/academic/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ccoffrin.github.io/categories/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ccoffrin.github.io/category/demo/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ccoffrin.github.io/post/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ccoffrin.github.io/post/getting-started/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ccoffrin.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ccoffrin.github.io/category/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ccoffrin.github.io/publication/qc/</loc>
+    <lastmod>2015-09-17T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ccoffrin.github.io/publication/ac-obbt/</loc>
+    <lastmod>2015-08-13T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2014-11-01T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ccoffrin.github.io/publication/nesta/</loc>
+    <lastmod>2014-11-01T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2014-11-01T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ccoffrin.github.io/publication/lpac/</loc>
+    <lastmod>2014-05-19T00:00:00-06:00</lastmod>
+  </url>
   
 </urlset>

@@ -1,43 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publication_types on Carleton Coffrin</title>
+    <title>Publication_types | Carleton Coffrin</title>
     <link>https://ccoffrin.github.io/publication_types/</link>
-    <description>Recent content in Publication_types on Carleton Coffrin</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 28 Apr 2019 00:00:00 -0600</lastBuildDate>
-    
-	<atom:link href="https://ccoffrin.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>1</title>
-      <link>https://ccoffrin.github.io/publication_types/1/</link>
-      <pubDate>Sun, 28 Apr 2019 00:00:00 -0600</pubDate>
-      
-      <guid>https://ccoffrin.github.io/publication_types/1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>2</title>
-      <link>https://ccoffrin.github.io/publication_types/2/</link>
-      <pubDate>Wed, 17 Oct 2018 00:00:00 -0600</pubDate>
-      
-      <guid>https://ccoffrin.github.io/publication_types/2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>4</title>
-      <link>https://ccoffrin.github.io/publication_types/4/</link>
-      <pubDate>Wed, 04 Dec 2019 00:00:00 -0700</pubDate>
-      
-      <guid>https://ccoffrin.github.io/publication_types/4/</guid>
-      <description></description>
-    </item>
+      <atom:link href="https://ccoffrin.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publication_types</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2018-2021 Carleton Coffrin </copyright><lastBuildDate>Wed, 04 Dec 2019 00:00:00 -0700</lastBuildDate>
+    <image>
+      <url>https://ccoffrin.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Publication_types</title>
+      <link>https://ccoffrin.github.io/publication_types/</link>
+    </image>
     
   </channel>
 </rss>

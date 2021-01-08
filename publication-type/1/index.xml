@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Carleton Coffrin</title>
+    <link>https://ccoffrin.github.io/publication-type/1/</link>
+      <atom:link href="https://ccoffrin.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2018-2021 Carleton Coffrin </copyright><lastBuildDate>Sun, 28 Apr 2019 00:00:00 -0600</lastBuildDate>
+    <image>
+      <url>https://ccoffrin.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>1</title>
+      <link>https://ccoffrin.github.io/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Evaluating Ising Processing Units with Integer Programming</title>
+      <link>https://ccoffrin.github.io/publication/ipu/</link>
+      <pubDate>Sun, 28 Apr 2019 00:00:00 -0600</pubDate>
+      <guid>https://ccoffrin.github.io/publication/ipu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PowerModels.jl: An Open-Source Framework for Exploring Power Flow Formulations</title>
+      <link>https://ccoffrin.github.io/publication/powermodels/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 -0600</pubDate>
+      <guid>https://ccoffrin.github.io/publication/powermodels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strengthening Convex Relaxations with Bound Tightening for Power Network Optimization</title>
+      <link>https://ccoffrin.github.io/publication/ac-obbt/</link>
+      <pubDate>Thu, 13 Aug 2015 00:00:00 -0600</pubDate>
+      <guid>https://ccoffrin.github.io/publication/ac-obbt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
