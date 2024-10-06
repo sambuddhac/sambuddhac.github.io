@@ -22,6 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:sambuddha.chakrabarti@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/sambuddhac"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/sambuddha-chakrabarti-ph-d-84157318/"}
   - {title: Google Scholar, icon: scholar, url: "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=R6fo6_oAAAAJ"}
   - {title: Twitter, icon: twitter, url: "https://x.com/SamChakrabarti"}
   - {title: YouTube, icon: youtube, url: "https://www.youtube.com/@samiemax007serious"}
