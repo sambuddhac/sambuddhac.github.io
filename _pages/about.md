@@ -2,31 +2,29 @@
 layout: about
 title: about
 permalink: /
-subtitle: Contact. Anamika Dubey. anamika.dubey@wsu.edu.
+subtitle: Contact. Sambuddha Chakrabarti. sambuddha.chakrabarti@gmail.com.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: IMG_20190913_210708_373.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> Director: Anamika Dubey </p>  
-    <p> Associate Professor, <a href='https://esic.wsu.edu/'>ESIC</a>. Washington State Univ. </p>
-    <p>EME 23, 355 NE Spokane St</p>
-    <p>Pullman, WA 99164</p> 
+    <p> Director: Sambuddha Chakrabarti </p>  
+    <p> Researcher, <a href='https://acee.princeton.edu//'>ESIC</a>. Princeton Univ. </p>
+    <p>Andlinger 030, 86 Olden Street</p>
+    <p>Princeton, NJ 08540</p> 
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-With rapid decarbonization goals and ambitious urban electrification targets, the electric power grid is undergoing unprecedented changes. SCALE Lab is at the forefront of addressing the new requirements for improved efficiency, operational flexibility, and resilience in response to the grid’s changing nature and extreme weather events. Our mission is to solve the ever-growing problem of providing a resilient, adaptable, and economically viable power supply with distributed generation resources. We focus on scalable methods that integrate model and data information to provide better decision support for increasingly complex power grids.
-
-The proliferation of distributed energy resources and flexible loads is pushing the control and operational requirements of the grid to the edge, thus significantly increasing the scale and complexity of grid operations. These grid-edge resources also hold the potential to support grid resilience in the aftermath of extreme weather events, which are impacting grid more often and with higher severity. Effective use of grid-edge resources to support decarbonization goals and resilience necessitates advances in modeling, analysis, and optimization of the electric power networks. SCLAE lab specializes in the analytics required for the effective integration and coordination of controllable grid-edge resources such as photovoltaics (PVs), electric vehicles (EVs), and grid-interactive efficient buildings (GEBs). Our methodological contributions are situated at the intersection of mathematical optimization techniques, physics-informed machine-learning, and cyber-physical electric power distribution systems. For a comprehensive information on the ongoing and past projects, kindly refer to Projects section.
+I am a researcher focused on Mathematical Optimization, Operations Research (OR), Machine Learning, Automatic Controls Theory, and Electric Power System Network. I hold a PhD (grad: August, 2017) & an MSE (grad: August, 2010) from the Department of Electrical & Computer Engineering of The University of Texas at Austin (specializing in Energy System/Power System) & has experience in research industry (academia and national lab.), academia (teaching), electrical manufacturing industry, power system generation planning, & electricity trading since July, 2006 to present. My core competencies are in Operations Research, Power Systems, Optimization, Electric generation & transmission network planning & operations, Microeconomics & Game Theory, Stochastic Systems, Systems Theory, Automatic Control Systems, Algorithms (Centralized and Distributed), Graph Theory, Deregulated Electricity Market etc. and I specialize at the following tools: Power System Simulation Tool: PowerWorld Simulator, REopt, UPLAN Altos, Aurora-XMP, PSCAD Programming & Scripting Languages: C C++ C# Java Python Julia SQL PL/SQL Matlab HTML LaTeX BASIC Pascal Linux Shell scripting etc. Optimization modeling languages, solvers, and other tools: JuMP Pyomo Xpress-mosel GAMS CVX CVXGEN MOSEK GLPK Knitro Gurobi TensorFlow Keras Scikit-Learn PyTorch git and GitHub etc. And, when I am not doing science, you will find me playing my Sitar, or, my Bandoneon, or, dancing Argentine Tango, or, traveling and doing photography, or, in the gym, pumping iron and working out. 
     
 
 
-**Anamika Dubey (Lab Director)** - I am Huie-Rogers Endowed Chair Associate Professor of Electrical Engineering in the School of EECS at Washington State University (WSU), Pullman. I also hold a joint appointment as a Research Scientist at the Pacific Northwest National Laboratory (PNNL). At WSU, I am affiliated with Energy Systems Innovation Center (ESIC). I received my MSE and Ph.D. in Electrical and Computer Engineering from the University of Texas at Austin in 2012 and 2015, respectively. Energy and climate change are indeed unquestionably urgent and significant challenges that demand our immediate attention. Within this broad scope, power systems research and development serve as the pivotal component in enabling the transition towards a clean and green energy future. As a power systems engineer and researcher, my goal is to help advance our society towards a future that is brighter, cleaner, and more sustainable.
+**Academics** - I received my MSE and Ph.D. in Electrical and Computer Engineering from the University of Texas at Austin in 2010 and 2017, respectively.
 
 
 
